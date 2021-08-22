@@ -28,7 +28,7 @@
 
 ## Sign In (Tanpa Google)
 ### Request
-#### POST /auth/google-signin
+#### POST /auth/signin
 ##### Body Request
 ```json
   {
